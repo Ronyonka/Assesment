@@ -7,7 +7,7 @@ This is a python script that was developed to be used for pagination of text mes
 
 | Behaviour     | Input     | Output  |
 | ------------- |:-------------:| -----:|
-| Send a Text Message| The User inputs a Text Message | If the text is sent in 160 character chunks. |
+| Send a Text Message| The User inputs a Text Message | The text is sent in 160 character chunks. |
 
 As an example, the following message has 212 characters:
 
@@ -39,9 +39,9 @@ You need the following to run the project: -
 Clone this repository into your local machine to be able to run it and navigate into the folder
 
 
-- `git clone https://github.com/Ronyonka/Assesment`
+- `git clone https://github.com/Ronyonka/Text`
 
-- `cd Assesment`
+- `cd Text`
 
 
 ## Usage
